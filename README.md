@@ -8,3 +8,6 @@ https://docs.atlasos.net/
 
 ## demo
 Linus Tech Tips - [You don’t need a new PC](https://youtu.be/dc7CIkZcWYE)
+
+# relation:
+-(sister project)->: https://ameliorated.io/
