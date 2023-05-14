@@ -10,4 +10,10 @@ https://docs.atlasos.net/
 Linus Tech Tips - [You don’t need a new PC](https://youtu.be/dc7CIkZcWYE)
 
 # relation:
--(sister project)->: https://ameliorated.io/
+## Ameliorated.io
+-(sister project)->
+
+Home: https://ameliorated.io/
+
+doc:
+https://docs.ameliorated.io/playbooks.html
